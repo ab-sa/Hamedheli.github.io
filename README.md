@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages HAHA
+## Welcome to GitHub Pages HAHAs
 
 You can use the [editor on GitHub](https://github.com/HamedHeli/Hamedheli.github.io/edit/DataAnalysis/README.md) to maintain and preview the content for your website in Markdown files.
 
